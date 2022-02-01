@@ -29,8 +29,8 @@ The application allows you to view the current and previous calculations
 
 ### Links:
 
-- Code: [See my code]()
-- Live: [Check it out]()
+- Code: [See my code](https://github.com/KajetanKisielewski/JavaScript-Calculator)
+- Live: [Check it out](https://kajetankisielewski.github.io/JavaScript-Calculator/)
 
 ## My Process
 
