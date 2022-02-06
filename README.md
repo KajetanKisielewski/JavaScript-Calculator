@@ -14,6 +14,8 @@
 
 ## Overview
 
+![](./assets/Animation.gif)
+
 ### The challenge
 
 The task was to create a basic calculator with the following options : addition(+), subtraction(-), multiplication(*), division(/), power(^).
